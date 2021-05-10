@@ -1,0 +1,7 @@
+.crop {
+  overflow: hidden;
+}
+
+.crop > div {
+  width: 100px;
+}
